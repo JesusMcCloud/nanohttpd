@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fi.iki.elonen</groupId>
+  <artifactId>nanohttpd</artifactId>
+  <versioning>
+    <release>2.1.0-ssl</release>
+    <versions>
+      <version>2.1.0-ssl</version>
+    </versions>
+    <lastUpdated>20141021195947</lastUpdated>
+  </versioning>
+</metadata>
